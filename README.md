@@ -1,13 +1,13 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/AnushkaJiah/AnushkaJiah/blob/main/Anushka%20Dogra%20(1).jpg" alt="Banner" height="400"/>
+  <img src="https://github.com/AnushkaJiah/AnushkaJiah/blob/main/1.jpg" alt="Banner" height="400"/>
 </p>
 
 <!-- Intro -->
 <div align="center">
 
 # Hi there 👋, I'm Anushka Dogra  
-**Full Stack Developer | DevOps Engineer**
+**Full Stack Developer | DevOps Engineer | BTech CSE Student**
 
 </div>
 
