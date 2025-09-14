@@ -13,7 +13,7 @@
 
 ---
 
-## 💫 About Me
+ 💫 About Me
 - 🎓 Final-year **B.Tech CSE student** at DIT University  
 - 💻 Specializing in **Full Stack Development & DevOps**  
 - 🌱 Always exploring **JavaScript, ReactJS, and DevOps Tools**  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Skills
+🛠️ Tech Skills
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,13 +42,14 @@
 
 ---
 
-## 🌐 Socials
+🌐 Socials
+
 <p align="left"> 
   <a href="https://www.github.com/AnushkaJiah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/anushkaa-dogra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 ---
 
-## 🔥 Currently
+ 🔥 Currently
 
 - 🔭 Working on: **Full Stack projects & DevOps pipelines**
 - 🌱 Learning: **Cloud (AWS, GCP), Kubernetes, and System Design**
@@ -60,11 +61,12 @@
 
 ---
 
-## 💻 Tech Stack (Badges)
+ 💻 Tech Stack (Badges)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -79,14 +81,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaJiah&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-  
-  <img src="https://streak-stats.demolab.com?user=AnushkaJiah&theme=radical&hide_border=false" height="180em"/>
-</p>
+📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaJiah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150em"/>
-</p>
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaJiah&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=AnushkaJiah's%20GitHub%20Stats&icon_color=FF61DA)<br/>
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaJiah&theme=radical&hide_border=false)<br/>
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaJiah&theme=radical&hide_border=false&layout=compact)
 
