@@ -52,7 +52,7 @@
 ## 🔥 Currently
 
 - 🔭 Working on: **Full Stack projects & DevOps pipelines**
-- 🌱 Learning: **Cloud (AWS, GCP), Kubernetes, and System Design**
+- 🌱 Learning: **Cloud (AWS, GCP), Kubernetes, and Backend Development**
 - 👯 Looking to collaborate on: **Open Source & Real-world Web Applications**
 - 📚 Preparing for: **Placements & advanced DSA (Java)**
 - 💡 Exploring: **AI + DevOps integration & scalable architectures**
@@ -87,7 +87,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaJiah&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=AnushkaJiah's%20GitHub%20Stats&icon_color=FF61DA)<br/>
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaJiah&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnushkaJIah&theme=radical&hide_border=false)<br/>
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaJiah&theme=radical&hide_border=false&layout=compact)
