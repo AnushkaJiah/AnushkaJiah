@@ -84,10 +84,11 @@
 ## 📊 GitHub Stats:
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaJiah&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=Anushka's%20GitHub%20Stats&icon_color=FF61DA)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaJiah&show_icons=true&theme=radical&hide_border=false&custom_title=Anushka's%20GitHub%20Stats&icon_color=FF61DA)
+
 
 <!-- GitHub Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=AnushkaJIah&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnushkaJiah&theme=radical&hide_border=false)<br/>
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaJiah&theme=radical&hide_border=false&layout=compact)
