@@ -14,12 +14,12 @@
 ---
 
 ## 💫 About Me
-- 🎓 Final-year **B.Tech CSE student** at DIT University  
+- 🎓 Final-year **B.Tech CSE Student** at DIT University  
 - 💻 Specializing in **Full Stack Development & DevOps**  
 - 🌱 Always exploring **JavaScript, ReactJS, and DevOps Tools**  
 - 🚀 Passionate about **scalable applications, clean code, and impactful projects**  
 - ✨ Interested in **Web Development, DevOps, and Emerging Tech**  
-- 🧩 Strong foundation in **DSA (Java), Full Stack Development, and DBMS**
+- 🧩 Strong foundation in **DSA (Java), Front-end Development, and DBMS**
 
 ---
 
