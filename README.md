@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/AnushkaJiah/AnushkaJiah/blob/main/1.jpg" alt="Banner" height="400"/>
+  <img src="https://github.com/AnushkaJiah/AnushkaJiah/blob/main/2.jpg" alt="Banner" height="400"/>
 </p>
 
 <!-- Intro -->
